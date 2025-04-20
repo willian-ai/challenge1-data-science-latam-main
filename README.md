@@ -40,6 +40,3 @@ La evaluación se basa en los siguientes cinco aspectos:
   - Justificación basada en los datos analizados
   - Recomendaciones específicas y fundamentadas
 
-Descripción
-
-En este primer análisis, debes calcular el ingreso total de cada tienda. Sumando los valores de la columna Precio de cada conjunto de datos de la tienda para estimar los ingresos.
